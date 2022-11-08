@@ -13,7 +13,4 @@ Python game to guess a number between a range of numbers
 ## Design
 
 * Uses concepts of binary search and logarithms.
-* Graphic Interface built using PySimpleGUI.
-
-
-
+* Graphic Interface built using [PySimpleGUI](https://www.pysimplegui.org/).
